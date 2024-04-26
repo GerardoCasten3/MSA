@@ -11,7 +11,7 @@ El programa busca realizar un alineamiento aplicando métodos de mutación de ma
 
 
 ## Documentation
-Dentro de la carpeta de Proyecto Final, podemos encontrar dos archivos. El corazón de nuestro programa se encuentra en "metodos_algoritmo.py" nos encontraremos con los siguientes métodos:
+Dentro de la carpeta de Proyecto Final, podemos encontrar dos archivos. El corazón de nuestro programa se encuentra en "metodos_algoritmo.py" y nos encontraremos con los siguientes métodos:
 
 imprimir_matriz(matriz):
 Descripción: Este método imprime la matriz de palabras en el formato adecuado para visualizarla en la consola o en un archivo de texto.
@@ -57,4 +57,6 @@ Descripción: Realiza una búsqueda lineal en una lista de tuplas para encontrar
 Parámetros:
 lista_tuplas: Una lista de tuplas donde cada tupla contiene un individuo y su puntaje.
 Retorno: El índice y el puntaje del mejor individuo encontrados en la lista.
+
+Para ejecutar el programa utilizaremos el archivo por nombre "proyecto_final.py". Podremos ajustar parámetros a nuestra conveniencia.
 
