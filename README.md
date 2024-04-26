@@ -59,4 +59,3 @@ lista_tuplas: Una lista de tuplas donde cada tupla contiene un individuo y su pu
 Retorno: El índice y el puntaje del mejor individuo encontrados en la lista.
 
 Para ejecutar el programa utilizaremos el archivo por nombre "proyecto_final.py". Podremos ajustar parámetros a nuestra conveniencia.
-
