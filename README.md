@@ -3,6 +3,7 @@
 
 Proyecto realizado para la materia de Análisis y Modelación de Sistemas en el periodo Ene-24 a Ago-24 impartida por el Dr. Ernesto Rios Willars.
 El programa busca realizar un alineamiento aplicando métodos de mutación de matrices con gaps, evaluación de las secuencias y cruzamiento entre éstas mismas.
+
 ![Entrada del Programa]("C:\Users\gerar\OneDrive\Imágenes\Capturas de pantalla\entrada.png")
 ![Comparación Final]("C:\Users\gerar\OneDrive\Imágenes\Capturas de pantalla\comparacion.png")
 ![Muestra de matrices en la última generación]("C:\Users\gerar\OneDrive\Imágenes\Capturas de pantalla\matrices_ult.png")
