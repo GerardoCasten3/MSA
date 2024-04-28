@@ -4,12 +4,11 @@
 Proyecto realizado para la materia de Análisis y Modelación de Sistemas en el periodo Ene-24 a Ago-24 impartida por el Dr. Ernesto Rios Willars.
 El programa busca realizar un alineamiento aplicando métodos de mutación de matrices con gaps, evaluación de las secuencias y cruzamiento entre éstas mismas.
 
-![Entrada del Programa]("C:\Users\gerar\OneDrive\Imágenes\Capturas de pantalla\entrada.png")
+![entrada](https://github.com/GerardoCasten3/MSA/assets/144501374/3bd69685-44bd-410a-ae1f-3726042aa4b2)
 
 ![comparacion](https://github.com/GerardoCasten3/MSA/assets/144501374/e4c20eee-7d9e-4d6f-bec4-7bb322c35427)
 
-![Muestra de matrices en la última generación]("C:\Users\gerar\OneDrive\Imágenes\Capturas de pantalla\matrices_ult.png")
-
+![matrices_ult](https://github.com/GerardoCasten3/MSA/assets/144501374/8b826c1a-2f01-4b15-93d1-198c5528dca4)
 
 ## Authors
 
