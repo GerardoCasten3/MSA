@@ -6,7 +6,7 @@ El programa busca realizar un alineamiento aplicando métodos de mutación de ma
 
 ![Entrada del Programa]("C:\Users\gerar\OneDrive\Imágenes\Capturas de pantalla\entrada.png")
 
-![Comparación Final]("C:\Users\gerar\OneDrive\Imágenes\Capturas de pantalla\comparacion.png")
+![comparacion](https://github.com/GerardoCasten3/MSA/assets/144501374/e4c20eee-7d9e-4d6f-bec4-7bb322c35427)
 
 ![Muestra de matrices en la última generación]("C:\Users\gerar\OneDrive\Imágenes\Capturas de pantalla\matrices_ult.png")
 
