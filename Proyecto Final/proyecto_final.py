@@ -64,5 +64,19 @@ for generacion in range(1, num_generaciones + 1):
 
 poblacion_final = poblacion
 mejor_indice, mejor_puntaje = busqueda_lineal(poblacion_final)
+
+# Imprimir la matriz original
+print("------------------ MATRIZ ORIGINAL ------------------")
+imprimir_matriz(matriz_inicial)
+
+# Primeras matrices en la población
+print("------------------ PRIMERAS MATRICES EN LA POBLACIÓN ------------------")
+for i in range(3):
+    print("Matriz", i + 1, ":")
+    imprimir_matriz(poblacion[i][0])
+    print("Puntaje:", poblacion[i][1], '\n')
+
+# Imprimir la mejor matriz
+print('------------------ MEJOR MATRIZ EN LA POBLACIÓN ------------------')
 print("La mejor matriz después de", num_generaciones, "generaciones es la:", mejor_indice + 1)
 print("Con puntaje:", mejor_puntaje)
